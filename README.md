@@ -1,5 +1,5 @@
 # About Me:
- I’m currently completing a Bachelor of Technology in Computer Science and Engineering at Lakshmi narain College of Technology.Throughout my studies, I’ve developed a strong foundation in data science and machine learning, which are areas I’m particularly passionate about.My coursework and projects have given me hands-on experience in data analysis and model building, and I’m eager to apply these skills in a professional setting.In addition to my technical background, I enjoy digital art, which has helped me develop a creative mindset and an eye for detail.Right now, I’m focused on securing a role where I can further grow in data science and make meaningful contributions.
+I’m a final-year Bachelor of Technology student in Computer Science and Engineering at Lakshmi Narain College of Technology. I have a strong foundation in data science and machine learning, with hands-on experience through coursework and projects. I enjoy applying these skills to solve real-world problems and am actively working on building impactful data-driven projects. Beyond coding, I explore digital art, which helps me approach problems creatively and pay attention to detail. I’m focused on growing as a data scientist and contributing to innovative projects that make a meaningful impact.
 
 
 ## Socials:
